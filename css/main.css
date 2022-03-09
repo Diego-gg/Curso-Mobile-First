@@ -7,7 +7,7 @@
     --black: #282623;
     --off-white: #faf8f7;
     --just-white: #fff;
-    --grey: #bababa;
+    --grey: black;
     --warm-black_1: #282623;
 }
 
@@ -143,7 +143,7 @@ main {
     font-size: 1.4rem;
     font-weight: 500;
     line-height: 1.6rem;
-    color: #757575;
+    color: black;
 }
 /* Scroll horizontal para las tablas*/
 
@@ -282,7 +282,7 @@ main {
     font-family: 'DM Sans', sans-serif;
     margin-bottom: 15px;
     font-size: 1.8rem;
-    font-weight: bold;
+    font-weight: 700;
     line-height: 2.3rem;
     color: var(--secondary-blue);
     text-align: center;
@@ -426,7 +426,7 @@ main {
     font-size: 1.4rem;
     font-weight: 500;
     line-height: 1.8rem;
-    color: #808080;
+    color: white;
 }
 
 .product-detail--card {
@@ -464,7 +464,7 @@ main {
     font-size: 1.4rem;
     font-weight: 500;
     line-height: 1.8rem;
-    color: #808080;
+    color: white;
 }
 
 .product-detail--card  .eye {
@@ -697,8 +697,4 @@ footer .left ul {
 
 footer .left a:hover {
     text-decoration: underline;
-}
-
-@media (min-width: 930px) {
-    
 }
